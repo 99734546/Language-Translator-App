@@ -1,7 +1,7 @@
 ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
-[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/DevGoyalG)
-[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/DevGoyalG?tab=repositories)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/99734546)
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/99734546?tab=repositories)
 
 
 <h1 align="center"> Language Translator App </h1>
@@ -12,7 +12,7 @@
 A simple Language Translator app that allows users to translate text between different languages. The app integrates with a translation API to fetch translations in real time. In addition, it includes functionality to copy the translated text and speak the translated text aloud using the browser's text-to-speech feature.
 
 ## 🌐 Live Demo
-Check out the live demo of the Language Translator App [here](https://languages-translators.netlify.app/).
+Check out the live demo of the Language Translator App [here](https://github.com/99734546?tab=repositories).
 
 ## 📸 Project Preview
 Here's a sneak peek of the Language Translator App:
@@ -40,7 +40,7 @@ Make sure you have **Git** installed. If not, you can download it [here](https:/
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/DevGoyalG/Language-Translator-App.git
+git clone https://github.com/99734546/Language-Translator-App.git
 ```
 
 ### 3. Set up the API Key
